@@ -28,17 +28,17 @@ const Skill_Cards = () => {
 
                         <div className="col-lg-4 col-md-6 col-12  mt-3">
                             <div data-aos='fade-up' className="Skill_IMG mx-auto">
-                                <img src="./images/ajax.png" />
+                                <img src="./images/django.png" />
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 col-12  mt-3">
                             <div data-aos="fade-up" className="Skill_IMG mx-auto">
-                                <img src="/images/boot.png" />
+                                <img src="/images/react.png" />
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 col-12  mt-3">
                             <div data-aos="flip-up" className="Skill_IMG mx-auto">
-                                <img src="/images/react.png" />
+                                <img src="/images/postgresql.png" />
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 col-12  mt-3">
