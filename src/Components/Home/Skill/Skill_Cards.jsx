@@ -28,7 +28,7 @@ const Skill_Cards = () => {
 
                         <div className="col-lg-4 col-md-6 col-12  mt-3">
                             <div data-aos='fade-up' className="Skill_IMG mx-auto">
-                                <img src="/images/ajax.png" />
+                                <img src="./images/ajax.png" />
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 col-12  mt-3">
